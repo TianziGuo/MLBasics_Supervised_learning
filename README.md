@@ -2,6 +2,6 @@
 
 ## This repo covers topics:
 #### 1. Statistic Basics For ML
-#### 2. Regression and Classifcation Liner Model
+#### 2. Regression and Classifcation Linear Model
 #### 3. Tree Based Models
 #### 4. Feature Engineering and Model Interpretation
